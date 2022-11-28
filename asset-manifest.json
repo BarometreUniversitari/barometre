@@ -1,13 +1,13 @@
 {
-  "main.css": "/barometre/static/css/main.22823a4e.chunk.css",
-  "main.js": "/barometre/static/js/main.dcf8c9cf.chunk.js",
-  "main.js.map": "/barometre/static/js/main.dcf8c9cf.chunk.js.map",
-  "static/js/1.5f5ff6e6.chunk.js": "/barometre/static/js/1.5f5ff6e6.chunk.js",
-  "static/js/1.5f5ff6e6.chunk.js.map": "/barometre/static/js/1.5f5ff6e6.chunk.js.map",
-  "runtime~main.js": "/barometre/static/js/runtime~main.47f28e68.js",
-  "runtime~main.js.map": "/barometre/static/js/runtime~main.47f28e68.js.map",
-  "static/css/main.22823a4e.chunk.css.map": "/barometre/static/css/main.22823a4e.chunk.css.map",
-  "index.html": "/barometre/index.html",
-  "precache-manifest.ab797464c80a4c714f27699c8c23d506.js": "/barometre/precache-manifest.ab797464c80a4c714f27699c8c23d506.js",
-  "service-worker.js": "/barometre/service-worker.js"
+  "files": {
+    "main.css": "/barometre/static/css/main.843c64e4.css",
+    "main.js": "/barometre/static/js/main.a785e6f8.js",
+    "index.html": "/barometre/index.html",
+    "main.843c64e4.css.map": "/barometre/static/css/main.843c64e4.css.map",
+    "main.a785e6f8.js.map": "/barometre/static/js/main.a785e6f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.843c64e4.css",
+    "static/js/main.a785e6f8.js"
+  ]
 }
