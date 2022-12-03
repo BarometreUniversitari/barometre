@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/barometre/static/css/main.1949961d.css",
+    "main.css": "/barometre/static/css/main.74589306.css",
     "main.js": "/barometre/static/js/main.5e33d1d1.js",
     "index.html": "/barometre/index.html",
-    "main.1949961d.css.map": "/barometre/static/css/main.1949961d.css.map",
+    "main.74589306.css.map": "/barometre/static/css/main.74589306.css.map",
     "main.5e33d1d1.js.map": "/barometre/static/js/main.5e33d1d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.1949961d.css",
+    "static/css/main.74589306.css",
     "static/js/main.5e33d1d1.js"
   ]
 }
