@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150mm"
+   height="150mm"
+   viewBox="0 0 150 150"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="../../../../../../../../Desktop/icon.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.84096521"
+     inkscape:cx="-65.401041"
+     inkscape:cy="280.62992"
+     inkscape:window-width="1920"
+     inkscape:window-height="1200"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-32.720337,-41.529659)">
+    <rect
+       style="fill:#e43800;fill-rule:evenodd;stroke-width:5.59741;paint-order:stroke fill markers;fill-opacity:1"
+       id="rect184"
+       width="150"
+       height="150"
+       x="32.720337"
+       y="41.529659" />
+    <circle
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:5;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path3860-8"
+       cx="107.72033"
+       cy="109.65046"
+       r="40.70792" />
+    <circle
+       style="fill:#e43800;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path3860"
+       cx="107.72033"
+       cy="65.298203"
+       r="12.930428" />
+    <circle
+       style="fill:#e43800;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path3860-9"
+       cx="67.012894"
+       cy="136.01131"
+       r="12.930428" />
+    <circle
+       style="fill:#e43800;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path3860-9-2"
+       cx="148.42778"
+       cy="136.01131"
+       r="12.930428" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.3472px;line-height:0.95;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none"
+       x="107.65402"
+       y="167.11937"
+       id="text10097"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.3472px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         x="107.65402"
+         y="167.11937"
+         id="tspan10879">Baròmetre</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.3472px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
+         x="107.65402"
+         y="178.84921"
+         id="tspan11288">Universitari</tspan></text>
+  </g>
+</svg>
