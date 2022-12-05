@@ -3,11 +3,11 @@
   "name": "Baròmetre Universitari",
   "icons": [
   	{
-  		"src": "icon/favicon.ico",
+  		"src": "favicon.ico",
   		"sizes": "128x128",
   	},
   	{
-  		"src": "icon/favicon.png",
+  		"src": "favicon.png",
   		"sizes": "1280x1280",
   		"type": "image/png",
   	}
