@@ -2,6 +2,15 @@
   "short_name": "BaròmetreUni",
   "name": "Baròmetre Universitari",
   "icons": [
+  	{
+  		"src": "icon/favicon.ico",
+  		"sizes": "128x128",
+  	},
+  	{
+  		"src": "icon/favicon.png",
+  		"sizes": "1280x1280",
+  		"type": "image/png",
+  	}
   ],
   "start_url": ".",
   "display": "standalone",
