@@ -9,7 +9,7 @@
    id="svg5"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="favicon.svg"
-   inkscape:export-filename="..\..\..\..\..\Imágenes\Profile pictures\barometreuniversitari.png"
+   inkscape:export-filename="..\..\..\..\..\..\Users\Oriol Segura\Desktop\favicon.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,13 +28,13 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="134"
-     inkscape:cy="220"
-     inkscape:window-width="1904"
-     inkscape:window-height="1041"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:cx="265"
+     inkscape:cy="304"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
      id="defs2" />
@@ -43,52 +43,33 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-32.720337,-41.529659)">
-    <rect
-       style="fill:#e43800;fill-rule:evenodd;stroke-width:5.59741;paint-order:stroke fill markers;fill-opacity:1"
+    <path
        id="rect184"
-       width="150"
-       height="150"
-       x="32.720337"
-       y="41.529659" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.3472px;line-height:0.95;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-dasharray:none"
-       x="107.65402"
-       y="169.23601"
-       id="text10097"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.3472px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
-         x="107.65402"
-         y="169.23601"
-         id="tspan10879">Baròmetre</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.3472px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.265;stroke-dasharray:none"
-         x="107.65402"
-         y="180.96585"
-         id="tspan11288">Universitari</tspan></text>
+       style="fill:#e43800;fill-rule:evenodd;stroke-width:5.59741;paint-order:stroke fill markers;fill-opacity:1"
+       d="M 107.72041 41.529659 A 75 75 0 0 0 32.720337 116.52973 A 75 75 0 0 0 107.72041 191.52981 A 75 75 0 0 0 182.72048 116.52973 A 75 75 0 0 0 107.72041 41.529659 z " />
     <circle
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:5;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="path3860-8"
-       cx="107.72043"
-       cy="112.82534"
+       cx="107.72034"
+       cy="112.82547"
        r="40.70792" />
     <circle
        style="fill:#e43800;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="path3860"
-       cx="107.72043"
-       cy="68.473083"
+       cx="107.72034"
+       cy="68.473206"
        r="12.930428" />
     <circle
        style="fill:#e43800;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="path3860-9"
-       cx="69.387764"
-       cy="143.77682"
+       cx="69.387672"
+       cy="143.77695"
        r="12.930428" />
     <circle
        style="fill:#e43800;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="path3860-9-2"
-       cx="146.07738"
-       cy="143.77682"
+       cx="146.07729"
+       cy="143.77695"
        r="12.930428" />
   </g>
 </svg>
