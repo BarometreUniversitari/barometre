@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/barometreuniversitari.cat/static/css/main.d29fb39e.css",
-    "main.js": "/barometreuniversitari.cat/static/js/main.a9153282.js",
+    "main.css": "/barometreuniversitari.cat/static/css/main.2bfafae4.css",
+    "main.js": "/barometreuniversitari.cat/static/js/main.70e07251.js",
     "index.html": "/barometreuniversitari.cat/index.html",
-    "main.d29fb39e.css.map": "/barometreuniversitari.cat/static/css/main.d29fb39e.css.map",
-    "main.a9153282.js.map": "/barometreuniversitari.cat/static/js/main.a9153282.js.map"
+    "main.2bfafae4.css.map": "/barometreuniversitari.cat/static/css/main.2bfafae4.css.map",
+    "main.70e07251.js.map": "/barometreuniversitari.cat/static/js/main.70e07251.js.map"
   },
   "entrypoints": [
-    "static/css/main.d29fb39e.css",
-    "static/js/main.a9153282.js"
+    "static/css/main.2bfafae4.css",
+    "static/js/main.70e07251.js"
   ]
 }
